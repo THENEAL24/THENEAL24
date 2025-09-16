@@ -1,7 +1,9 @@
 # 👋 Hi, I'm Matthew 
 
 🎓 Student at **Moscow Aviation Institute (MAI)**  
+
 📚 Major: **Fundamental Informatics**
+
 💼 Currently working at **KSC IT**
 
 ## ✨ About Me  
