@@ -13,7 +13,6 @@
 ## 𝗖𝘂𝗿𝗿𝗲𝗻𝘁𝗹𝘆 𝘄𝗼𝗿𝗸𝗶𝗻𝗴 𝗼𝗻
 
 [![JWT Auth service](https://svg.bookmark.style/api?url=https://github.com/THENEAL24/KSC_JWT-auth&mode=light&style=horizontal)](https://github.com/THENEAL24/KSC_JWT-auth)
-[![Snaply marketplace](https://svg.bookmark.style/api?url=https://github.com/vovan-ivanoff/dead10cc&mode=dark&style=horizontal)](https://github.com/vovan-ivanoff/dead10cc)
 
 ## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
 
@@ -31,13 +30,6 @@
 
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=ffffff)
 ![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code)
-
-## Metrics  
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=THENEAL24&theme=default" alt="GitHub Streak"/>
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=THENEAL24&theme=default" alt="WakaTime Metrics"/>
-</p>
 
 ## GitHub Stats  
 
