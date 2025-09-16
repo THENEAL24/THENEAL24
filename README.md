@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Matvey Germanenko  
+# 👋 Hi, I'm Matthew 
 
 🎓 Student at **Moscow Aviation Institute (MAI)**  
 📚 Major: **Fundamental Informatics**  
