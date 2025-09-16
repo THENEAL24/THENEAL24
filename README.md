@@ -10,10 +10,6 @@
 - 🧠 Passionate about **low-level programming** and **modern web development**  
 - 🌍 Interested in bridging the gap between **fundamentals** and **real-world applications**  
 
-## 𝗖𝘂𝗿𝗿𝗲𝗻𝘁𝗹𝘆 𝘄𝗼𝗿𝗸𝗶𝗻𝗴 𝗼𝗻
-
-[![JWT Auth service](https://svg.bookmark.style/api?url=https://github.com/THENEAL24/KSC_JWT-auth&mode=light&style=horizontal)](https://github.com/THENEAL24/KSC_JWT-auth)
-
 ## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
 
 ![Python](https://img.shields.io/badge/-Python-%2314354C?style=flat-square&logo=python&logoColor=ffffff)
