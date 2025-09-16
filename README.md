@@ -32,8 +32,8 @@
 ## 📈 Metrics  
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=THENEAL24&theme=tokyonight" alt="GitHub Streak"/>
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=THENEAL24&theme=tokyonight" alt="WakaTime Metrics"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=THENEAL24&theme=default" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=THENEAL24&theme=default" alt="WakaTime Metrics"/>
 </p>
 
 ---
@@ -41,8 +41,8 @@
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=THENEAL24&show_icons=true&theme=onedark" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=THENEAL24&layout=compact&theme=onedark" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=THENEAL24&show_icons=true&theme=default" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=THENEAL24&layout=compact&theme=default" height="165"/>
 </p>
 
 ---
