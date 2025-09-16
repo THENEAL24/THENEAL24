@@ -7,7 +7,7 @@
 ## ✨ About Me  
 
 - 🔭 Always learning and experimenting with new technologies  
-- 🧠 Passionate about **low-level programming** and **modern web development**  
+- 🧠 Passionate about **AI Integration** and **modern web development**  
 - 🌍 Interested in bridging the gap between **fundamentals** and **real-world applications**  
 
 ## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
